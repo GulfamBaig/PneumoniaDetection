@@ -1,7 +1,5 @@
 # Pneumonia Detection from Chest X-rays 🩺
 
-![Pneumonia Detection Demo](demo.gif) *(Example GIF showing the app in action)*
-
 ## Overview
 This project is a deep learning-based system that detects pneumonia from chest X-ray images using a CNN model with EfficientNetV2B1 architecture. The system provides instant predictions with confidence scores, helping medical professionals in preliminary diagnosis.
 
@@ -72,3 +70,9 @@ pip install -r requirements.txt
 ### Acknowledgments
 - **Dataset**: Chest X-Ray Images (Pneumonia) from Kaggle
 - Model architecture based on **EfficientNetV2**
+
+  ###👤 Author
+User: Gulfam Baig
+📧 Email: gulfambaig30@gmail.com
+🔗 LinkedIn: linkedin.com/in/gulfam-baig
+💻 GitHub: Emotion Detection from Text
